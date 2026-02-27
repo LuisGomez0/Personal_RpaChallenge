@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Desafío Rpa(2)",
+  "Type": "Screen",
+  "Id": "sS2_GSLyC0OdpYB-sLFb5Q",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/sS2_GSLyC0OdpYB-sLFb5Q",
+  "ParentRef": "xmtWzaeBKk-NUXHoYsxhgg/pkjYF2ZpFUCklgR11_wwOg",
+  "Created": "2026-02-27T03:50:46.9489716Z",
+  "Updated": "2026-02-27T03:50:46.9489716Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

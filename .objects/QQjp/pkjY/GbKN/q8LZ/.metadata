@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Descargar Excel",
+  "Type": "Element",
+  "Id": "q8LZSBPVykiR4xa1Om2AUA",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/q8LZSBPVykiR4xa1Om2AUA",
+  "ParentRef": "xmtWzaeBKk-NUXHoYsxhgg/GbKN2QFyjUylEsqdBRemgg",
+  "Created": "2026-02-27T00:09:13.1179132Z",
+  "Updated": "2026-02-27T00:09:13.1179132Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,1862 @@
+{
+  "Snapshot": {
+    "Id": "16f5b013-2151-4faa-9317-6f51f1f4628c",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "Personal_RpaChallenge",
+    "Description": "Robotic Enterprise Framework",
+    "LastModifiedTime": "2026-02-27T05:54:49.4210471Z",
+    "CreationTime": "2026-02-26T23:44:56.5163634Z",
+    "UserId": "605052d5-a79f-47aa-b15d-d5f09419db8b",
+    "RootFolder": {
+      "Name": "16f5b013-2151-4faa-9317-6f51f1f4628c",
+      "Folders": [
+        {
+          "Id": "60f66751-e2dd-4c7a-82a5-83753073748c",
+          "Name": "Tests",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "c1feb6ca-2c51-4bd0-958c-32baceb804f7",
+              "Name": "ProcessTestCase.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "53fc9009-497b-4acf-9c78-b347d55ec472",
+              "Name": "GetTransactionDataTestCase.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "d9b11636-1a84-4a31-8521-572a9046b2ef",
+              "Name": "WorkflowTestCaseTemplate.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "27adc59e-60b6-4842-8891-2ff584b09e1e",
+              "Name": "InitAllApplicationsTestCase.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "412430ef-a5b5-4f4f-a323-83a48d45bbf4",
+              "Name": "InitAllSettingsTestCase.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "c2cd736b-c5bf-459b-adce-5b3492dcec64",
+              "Name": "Tests.xlsx",
+              "IsMain": false
+            },
+            {
+              "Id": "5bfa4c4e-349a-49ce-a315-1c7ce72f0a9d",
+              "Name": "MainTestCase.xaml",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "d42f4b7f-d7d1-4fc1-bedd-6a8c110a7b2e",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "184ce31c-0455-4f6b-87f6-1415c9597a7a",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "d3343579-e984-4c8e-bd49-1d60dfff8c47",
+          "Name": "Data",
+          "Folders": [
+            {
+              "Id": "2ed84020-cfe4-4f0e-859f-e9c60cf78cac",
+              "Name": "Input",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "9a967412-a4fb-4f61-a842-7deff9cb5dd1",
+                  "Name": "placeholder.txt",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "9dd8466a-e17a-4e5b-bd24-fe64e2665382",
+              "Name": "Output",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "41806c14-974b-4f5e-ad15-2a1b28df4ccb",
+                  "Name": "placeholder.txt",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "8c044bf9-ad65-44c7-8203-7350a25c7474",
+              "Name": "Temp",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "07139134-a948-4e6d-a87d-e1832af6a11e",
+                  "Name": "placeholder.txt",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": [
+            {
+              "Id": "95ed34a4-1e90-41ff-a525-bf55001af375",
+              "Name": "Config.xlsx",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "40eb33cd-1a7d-4a97-95bc-80c79b65116b",
+          "Name": ".objects",
+          "Folders": [
+            {
+              "Id": "e793089c-34ff-470a-954e-0c282bb0c5dd",
+              "Name": "4dG8",
+              "Folders": [
+                {
+                  "Id": "4bb873d0-80ca-4d20-8241-c894f82e1afc",
+                  "Name": ".data",
+                  "Folders": [
+                    {
+                      "Id": "279e35f8-f7d6-4692-aca3-2bd67dc14cd9",
+                      "Name": "ObjectSelectionName",
+                      "Folders": [],
+                      "Files": [
+                        {
+                          "Id": "99fb9f16-82a3-4094-9fed-7d21180ac7b6",
+                          "Name": ".content",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": []
+                },
+                {
+                  "Id": "8952390d-72b2-4bb1-931f-65e624a21f13",
+                  "Name": "hhuA",
+                  "Folders": [
+                    {
+                      "Id": "c2ef4ea3-f88e-44ef-b37d-3462bd1fb586",
+                      "Name": "Qtgj",
+                      "Folders": [
+                        {
+                          "Id": "8de83bb7-416d-4a4b-8388-7809ef341610",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "9dad8fda-fcb1-4df0-8ed7-0ca8eba6b9d6",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [
+                                {
+                                  "Id": "a5a53a04-d411-4114-b7ba-7b2dd7bfff5a",
+                                  "Name": ".images",
+                                  "Folders": [
+                                    {
+                                      "Id": "b90010f3-abc7-4c51-aa6c-0471b41f7f62",
+                                      "Name": ".design",
+                                      "Folders": [],
+                                      "Files": [
+                                        {
+                                          "Id": "358c2502-5a90-44e9-bc54-e486121e2850",
+                                          "Name": "0n9cZqmB7Qki-xFGwoAPjdQ",
+                                          "IsMain": false
+                                        },
+                                        {
+                                          "Id": "e526a9ad-6523-4251-b196-42e0889ee391",
+                                          "Name": "09RtH91J21E6nYE6QeuT7ng",
+                                          "IsMain": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "Files": []
+                                }
+                              ],
+                              "Files": [
+                                {
+                                  "Id": "fdd52847-a942-451a-89ec-2aab6ec62357",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "c426280e-fb67-48bf-b7b9-cf5ae5bacc3c",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "2e082603-11d5-4142-8b26-a24d561ba8e3",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "5689bf8a-158b-4ce3-bbe2-75a3194ca877",
+                      "Name": "90PU",
+                      "Folders": [
+                        {
+                          "Id": "61b6f457-e584-4964-ac4b-ed0cc9d7562a",
+                          "Name": "FDxu",
+                          "Folders": [
+                            {
+                              "Id": "bb4ad18a-a6b9-439c-bd51-6a225dc9faaf",
+                              "Name": ".data",
+                              "Folders": [
+                                {
+                                  "Id": "b11cc78e-f7ef-42fa-b773-55c580168330",
+                                  "Name": "ObjectRepositoryTargetData",
+                                  "Folders": [
+                                    {
+                                      "Id": "139fdd89-7144-4f2d-b071-f8e2eec1785e",
+                                      "Name": ".images",
+                                      "Folders": [
+                                        {
+                                          "Id": "1c734942-62ac-47fb-a109-ac7923171599",
+                                          "Name": ".design",
+                                          "Folders": [],
+                                          "Files": [
+                                            {
+                                              "Id": "3c98e74e-0e36-4b29-b19e-fae31ab3f5e3",
+                                              "Name": "0B7_h49tKbE-tz3PR-B_pDQ",
+                                              "IsMain": false
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Files": []
+                                    }
+                                  ],
+                                  "Files": [
+                                    {
+                                      "Id": "33cf7313-ce97-4076-8511-da564212e956",
+                                      "Name": ".content",
+                                      "IsMain": false
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Files": []
+                            }
+                          ],
+                          "Files": [
+                            {
+                              "Id": "1fcc54da-a188-48eb-9102-eafb3cd269b3",
+                              "Name": ".type",
+                              "IsMain": false
+                            },
+                            {
+                              "Id": "e58ec167-ca3c-49ed-8711-731a4d631709",
+                              "Name": ".metadata",
+                              "IsMain": false
+                            }
+                          ]
+                        },
+                        {
+                          "Id": "8805734b-675d-4b4f-b040-198ee86d1656",
+                          "Name": "ZpPV",
+                          "Folders": [
+                            {
+                              "Id": "17991cb3-52c4-431a-ada7-7db22a7b6389",
+                              "Name": ".data",
+                              "Folders": [
+                                {
+                                  "Id": "8500fac7-5a93-4213-b1e6-de72d3672f16",
+                                  "Name": "ObjectRepositoryTargetData",
+                                  "Folders": [
+                                    {
+                                      "Id": "28aa8774-0821-4d15-86ce-4ff75831ffb2",
+                                      "Name": ".images",
+                                      "Folders": [
+                                        {
+                                          "Id": "584c74e5-532e-4019-af32-2cdfe13df3df",
+                                          "Name": ".design",
+                                          "Folders": [],
+                                          "Files": [
+                                            {
+                                              "Id": "5029055a-9911-47d3-80d1-ae62d135532c",
+                                              "Name": "05ZCP3tJSGkitI2gVwbi2wQ",
+                                              "IsMain": false
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Files": []
+                                    }
+                                  ],
+                                  "Files": [
+                                    {
+                                      "Id": "e1a83b7c-8fda-416d-98c9-4c90d0b50cad",
+                                      "Name": ".content",
+                                      "IsMain": false
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Files": []
+                            }
+                          ],
+                          "Files": [
+                            {
+                              "Id": "92a8bedc-57e0-4580-b93f-17cf06c52e7f",
+                              "Name": ".type",
+                              "IsMain": false
+                            },
+                            {
+                              "Id": "265eea4b-974e-416e-a56b-51d84bcbb7d8",
+                              "Name": ".metadata",
+                              "IsMain": false
+                            }
+                          ]
+                        },
+                        {
+                          "Id": "0b8bd1fd-900b-4a13-ade7-21e5f98c1e22",
+                          "Name": "YllJ",
+                          "Folders": [
+                            {
+                              "Id": "fdcef80f-8660-43d9-b966-f07cd24ce066",
+                              "Name": ".data",
+                              "Folders": [
+                                {
+                                  "Id": "685503b5-6269-431e-a27b-db0cb13b5f7e",
+                                  "Name": "ObjectRepositoryTargetData",
+                                  "Folders": [
+                                    {
+                                      "Id": "ad449749-13ad-41e2-835d-9af7e545e6f5",
+                                      "Name": ".images",
+                                      "Folders": [
+                                        {
+                                          "Id": "1554cfd7-2959-4ebd-8226-0437803496fe",
+                                          "Name": ".design",
+                                          "Folders": [],
+                                          "Files": [
+                                            {
+                                              "Id": "683ebf4d-c746-4052-8112-4629c7425893",
+                                              "Name": "0PT9gBhDXOEOx4xIvpKnUqQ",
+                                              "IsMain": false
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Files": []
+                                    }
+                                  ],
+                                  "Files": [
+                                    {
+                                      "Id": "1ace883c-4e07-4d39-bf05-de089d165ffc",
+                                      "Name": ".content",
+                                      "IsMain": false
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Files": []
+                            }
+                          ],
+                          "Files": [
+                            {
+                              "Id": "3fdab696-41d3-49b9-b437-3b793eab7979",
+                              "Name": ".type",
+                              "IsMain": false
+                            },
+                            {
+                              "Id": "0389c1fa-d216-4fc3-8b57-39e7b57744a6",
+                              "Name": ".metadata",
+                              "IsMain": false
+                            }
+                          ]
+                        },
+                        {
+                          "Id": "539d63a9-b156-42bc-8fdc-42cb108e2e97",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "2d67a910-cc7b-4b14-ac42-8324c8960692",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [],
+                              "Files": [
+                                {
+                                  "Id": "c08a05c6-1d97-4f2c-bdbc-6c11efd22267",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "ab765980-7258-48fe-8e4b-9091fff15d5f",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "a31eebef-5098-4739-b1bb-e9adeb99c874",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": [
+                    {
+                      "Id": "d432048e-7707-444a-bfd0-f568c2301a37",
+                      "Name": ".type",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "90e3e6b6-ca17-4330-a159-0cfb1720d25b",
+                      "Name": ".metadata",
+                      "IsMain": false
+                    }
+                  ]
+                }
+              ],
+              "Files": [
+                {
+                  "Id": "31d74c08-b1f6-4117-8032-fa716c860968",
+                  "Name": ".type",
+                  "IsMain": false
+                },
+                {
+                  "Id": "f714126e-0c4b-4fd1-89ae-08cdbd72e653",
+                  "Name": ".metadata",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "2f3d7786-c262-4f7e-8b20-c1942bac6c33",
+              "Name": "QQjp",
+              "Folders": [
+                {
+                  "Id": "e4109b6b-d018-4c84-9f48-1c1cf2627e61",
+                  "Name": "pkjY",
+                  "Folders": [
+                    {
+                      "Id": "807505d3-cede-4c7b-b04a-2150ecc21c85",
+                      "Name": "sS2_",
+                      "Folders": [
+                        {
+                          "Id": "a4d4167e-bfd1-43a3-8596-e18a7c41eb2d",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "23ffdf17-461b-4bc9-84d5-5441e07eb0f8",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [
+                                {
+                                  "Id": "0d350975-e0a4-4093-92f2-90d36bb16fed",
+                                  "Name": ".images",
+                                  "Folders": [
+                                    {
+                                      "Id": "8b713beb-b85b-4902-be23-35c409864784",
+                                      "Name": ".design",
+                                      "Folders": [],
+                                      "Files": [
+                                        {
+                                          "Id": "43c5a91d-0ffd-4ffc-9eba-85453b903fce",
+                                          "Name": "0qSjfRWVO8UG445vtUIZRXA",
+                                          "IsMain": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "Files": []
+                                }
+                              ],
+                              "Files": [
+                                {
+                                  "Id": "60d15a1f-99cf-47fe-8592-de236466999c",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "e62c8ec8-1d58-4852-b2ef-b2c0745fa47b",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "cfbe34dc-22fc-4028-9af3-5a1df2088d14",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "1da1ecac-5d7b-4c42-a04f-e3b69e8e095a",
+                      "Name": "IdJg",
+                      "Folders": [
+                        {
+                          "Id": "e7930bee-53b4-4217-9bb8-fefedec63e1f",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "2210b430-ebaf-48e8-b0a4-da7f05492a4c",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [
+                                {
+                                  "Id": "d85a7596-1cda-449c-9232-26b46834aca0",
+                                  "Name": ".images",
+                                  "Folders": [
+                                    {
+                                      "Id": "e8a0c30c-660f-4044-add9-6c9f4589ad94",
+                                      "Name": ".design",
+                                      "Folders": [],
+                                      "Files": [
+                                        {
+                                          "Id": "1bb8847a-d6a4-4396-9318-490579d0f9a2",
+                                          "Name": "0AnRJXSDx5UGfuKsIu7X96A",
+                                          "IsMain": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "Files": []
+                                }
+                              ],
+                              "Files": [
+                                {
+                                  "Id": "24173be0-c3ab-4ed9-8c50-5eeb9a9e3fb8",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "25ced469-ae30-492a-9d56-ad59b9627ea6",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "d92a6316-f7ef-4b5c-82c5-ad08362f5f09",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    },
+                    {
+                      "Id": "78b34140-5e59-4f10-b3e5-42750b10f27d",
+                      "Name": "GbKN",
+                      "Folders": [
+                        {
+                          "Id": "0222cc69-4d82-4e41-9255-1f8532299501",
+                          "Name": "BvrS",
+                          "Folders": [
+                            {
+                              "Id": "93a1b4e2-ee0e-49f7-b525-89d0fc6a6580",
+                              "Name": ".data",
+                              "Folders": [
+                                {
+                                  "Id": "45fc1e47-39c4-4fcc-8db0-33b11440f4c1",
+                                  "Name": "ObjectRepositoryTargetData",
+                                  "Folders": [
+                                    {
+                                      "Id": "8f18a849-3568-45d3-be0e-c1c12c153c46",
+                                      "Name": ".images",
+                                      "Folders": [
+                                        {
+                                          "Id": "2cefc2cd-b32f-4fd5-b74f-a5f1925d2967",
+                                          "Name": ".design",
+                                          "Folders": [],
+                                          "Files": [
+                                            {
+                                              "Id": "0dc28469-78b4-4b7e-a93b-6275b002bf44",
+                                              "Name": "0G7Kx8aOWh0mfSaLTmB2nyQ",
+                                              "IsMain": false
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Files": []
+                                    }
+                                  ],
+                                  "Files": [
+                                    {
+                                      "Id": "8e925fde-1f6a-45ec-99ee-4ba4dc00d8e1",
+                                      "Name": ".content",
+                                      "IsMain": false
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Files": []
+                            }
+                          ],
+                          "Files": [
+                            {
+                              "Id": "39bfc409-498f-4519-9ab2-1bfe49375c99",
+                              "Name": ".type",
+                              "IsMain": false
+                            },
+                            {
+                              "Id": "ee758574-07e5-4582-89ec-64b46bd96909",
+                              "Name": ".metadata",
+                              "IsMain": false
+                            }
+                          ]
+                        },
+                        {
+                          "Id": "63d47fcf-5d00-4db0-9924-1820b89dd923",
+                          "Name": "q8LZ",
+                          "Folders": [
+                            {
+                              "Id": "e41f3111-3044-44ea-a849-8d1a903a9068",
+                              "Name": ".data",
+                              "Folders": [
+                                {
+                                  "Id": "4222c25a-f113-4bb0-9494-fa4b29936deb",
+                                  "Name": "ObjectRepositoryTargetData",
+                                  "Folders": [
+                                    {
+                                      "Id": "7d329731-439d-40a1-9ed1-5730cc314626",
+                                      "Name": ".images",
+                                      "Folders": [
+                                        {
+                                          "Id": "bde0eb23-4096-47b4-8c31-2abddb6ad373",
+                                          "Name": ".design",
+                                          "Folders": [],
+                                          "Files": [
+                                            {
+                                              "Id": "b283f23b-6f47-497d-ab03-7baa11757767",
+                                              "Name": "0bUSMYhz_XUyguyUrHyCCDg",
+                                              "IsMain": false
+                                            }
+                                          ]
+                                        }
+                                      ],
+                                      "Files": []
+                                    }
+                                  ],
+                                  "Files": [
+                                    {
+                                      "Id": "91a82284-2733-4003-afbb-7ee61b9cb554",
+                                      "Name": ".content",
+                                      "IsMain": false
+                                    }
+                                  ]
+                                }
+                              ],
+                              "Files": []
+                            }
+                          ],
+                          "Files": [
+                            {
+                              "Id": "864959f6-5205-428c-b678-f8baf46a3dec",
+                              "Name": ".type",
+                              "IsMain": false
+                            },
+                            {
+                              "Id": "5b47a4a4-b6b5-441b-b07c-78614ae3890f",
+                              "Name": ".metadata",
+                              "IsMain": false
+                            }
+                          ]
+                        },
+                        {
+                          "Id": "3a9c0f23-0f56-4015-8061-4268984fedbd",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "0961ff86-cee4-4817-8cae-6f1ce1e2cc0c",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [
+                                {
+                                  "Id": "1c565a25-64fc-4e68-8f72-2274c898bf6d",
+                                  "Name": ".images",
+                                  "Folders": [
+                                    {
+                                      "Id": "b41e2b6c-fa5d-4e01-baf4-d685a9c54e4b",
+                                      "Name": ".design",
+                                      "Folders": [],
+                                      "Files": [
+                                        {
+                                          "Id": "2ac7d24a-0799-44c0-b963-34035b7acd9d",
+                                          "Name": "046QLa3v9rU6EG2Kf09H7Sg",
+                                          "IsMain": false
+                                        },
+                                        {
+                                          "Id": "107c33d5-b22a-46b8-a6cf-2252aa044768",
+                                          "Name": "0RUUKrlrFxUCRX6tn9maCDw",
+                                          "IsMain": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "Files": []
+                                }
+                              ],
+                              "Files": [
+                                {
+                                  "Id": "127f1e9b-4a93-4d49-bf8a-0e19c92cff6d",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "7b5f372d-abbd-4938-8a82-1c22a95c6899",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "f3da84e2-7a70-4297-a6df-7de95438f346",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": [
+                    {
+                      "Id": "ecc4b6ca-ce1d-4341-8c61-023a6d55bbc8",
+                      "Name": ".type",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "033ef3c4-1de6-4ddf-82ce-8457a4a9b795",
+                      "Name": ".metadata",
+                      "IsMain": false
+                    }
+                  ]
+                },
+                {
+                  "Id": "314d267a-f4f3-4da2-ad4f-4efd2f6d10ec",
+                  "Name": ".data",
+                  "Folders": [
+                    {
+                      "Id": "94b33aaa-a92f-4480-98eb-db4ac41fb64c",
+                      "Name": "ObjectSelectionName",
+                      "Folders": [],
+                      "Files": [
+                        {
+                          "Id": "aea9b3e8-dbcd-4044-839d-fd717b570548",
+                          "Name": ".content",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": []
+                }
+              ],
+              "Files": [
+                {
+                  "Id": "d3a0af4e-e193-4c03-ba01-a9e25f29fef0",
+                  "Name": ".type",
+                  "IsMain": false
+                },
+                {
+                  "Id": "478f0710-90cd-47c0-a1ad-7f5f631f085e",
+                  "Name": ".metadata",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "d6745f59-bb05-4bdc-82f0-bd5dd467672d",
+              "Name": "W6P7",
+              "Folders": [
+                {
+                  "Id": "5cfd362b-c921-45ba-a7ef-9af54aa4b144",
+                  "Name": "qrYY",
+                  "Folders": [
+                    {
+                      "Id": "356d10d2-e001-4ea8-8c6a-9bb6549153a4",
+                      "Name": "10W-",
+                      "Folders": [
+                        {
+                          "Id": "8e396197-36ee-4982-8c3c-00c4a829d7b3",
+                          "Name": ".data",
+                          "Folders": [
+                            {
+                              "Id": "b0d9a6e5-7f12-4a9d-acab-4e27e68a14a2",
+                              "Name": "ObjectRepositoryScreenData",
+                              "Folders": [
+                                {
+                                  "Id": "e61289fe-41e8-4af3-83dd-7c9878bf6142",
+                                  "Name": ".images",
+                                  "Folders": [
+                                    {
+                                      "Id": "f5f58145-3667-435f-93cb-7f4ec016a528",
+                                      "Name": ".design",
+                                      "Folders": [],
+                                      "Files": [
+                                        {
+                                          "Id": "298082a5-b9b2-4e99-93bd-8156db5a7580",
+                                          "Name": "0uNj61YTJmUO6gvLTWPCpEA",
+                                          "IsMain": false
+                                        },
+                                        {
+                                          "Id": "f4ed0cb0-44c5-4de3-b268-48614902c282",
+                                          "Name": "0YVoiunxYt0W21Bb9QDsFRA",
+                                          "IsMain": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "Files": []
+                                }
+                              ],
+                              "Files": [
+                                {
+                                  "Id": "543a7ae3-5b5a-4629-82cf-d84e9b085ec0",
+                                  "Name": ".content",
+                                  "IsMain": false
+                                }
+                              ]
+                            }
+                          ],
+                          "Files": []
+                        }
+                      ],
+                      "Files": [
+                        {
+                          "Id": "305e1d7c-c6f3-4e0c-9a3b-a6f456c08fb1",
+                          "Name": ".type",
+                          "IsMain": false
+                        },
+                        {
+                          "Id": "b63f8644-76b1-4d33-abcd-d7a029326610",
+                          "Name": ".metadata",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": [
+                    {
+                      "Id": "46495210-5582-43b0-b5e2-6e5cec5ebecd",
+                      "Name": ".type",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "9476b37f-08e4-46ef-9fd8-a02d6718a8ea",
+                      "Name": ".metadata",
+                      "IsMain": false
+                    }
+                  ]
+                },
+                {
+                  "Id": "a2600816-c55a-4bb8-ae9a-a49960e88c06",
+                  "Name": ".data",
+                  "Folders": [
+                    {
+                      "Id": "e4e6a16a-9bdc-4de8-9ba3-2637bc099bec",
+                      "Name": "ObjectSelectionName",
+                      "Folders": [],
+                      "Files": [
+                        {
+                          "Id": "f07cf214-9fc5-4e82-babb-dfb277a162d3",
+                          "Name": ".content",
+                          "IsMain": false
+                        }
+                      ]
+                    }
+                  ],
+                  "Files": []
+                }
+              ],
+              "Files": [
+                {
+                  "Id": "f4469e1b-4058-4b18-8f1e-dbf35b7c8bf2",
+                  "Name": ".type",
+                  "IsMain": false
+                },
+                {
+                  "Id": "d6808bdf-8a4e-45b0-a21c-33d3166cbd5d",
+                  "Name": ".metadata",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": [
+            {
+              "Id": "aad818b2-7d90-4775-8b4e-f6fb21341f34",
+              "Name": ".type",
+              "IsMain": false
+            },
+            {
+              "Id": "59176eff-b31b-49f5-af6a-e7c9a6c005bd",
+              "Name": ".metadata",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "a0ce8d97-524a-478a-9f5b-2b0ec7190b5a",
+          "Name": "Documentation",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "0f05e594-0407-42d0-94c3-578a44758451",
+              "Name": "REFramework Documentation-EN.pdf",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "a18bd639-563a-4eaa-9995-f94ba188ee5e",
+          "Name": ".screenshots",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "418cba0653d8fed2a7dee4c9f574851c.jpg",
+              "Name": "418cba0653d8fed2a7dee4c9f574851c.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "1172f7590be93cdf9cc6fde0628e7654.jpg",
+              "Name": "1172f7590be93cdf9cc6fde0628e7654.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "962480fb03b5d1f55a0d3b98a737951d.jpg",
+              "Name": "962480fb03b5d1f55a0d3b98a737951d.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "60daf3ffb886c037a5d7528dc7e75922.jpg",
+              "Name": "60daf3ffb886c037a5d7528dc7e75922.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "695a3f602056e283b266397ba015308b.jpg",
+              "Name": "695a3f602056e283b266397ba015308b.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "f0700c5b048be15529e2d462d9a9f75e.jpg",
+              "Name": "f0700c5b048be15529e2d462d9a9f75e.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "7bf03d4513a5e99364560ba6e211bb0b.jpg",
+              "Name": "7bf03d4513a5e99364560ba6e211bb0b.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "9e2a324800d7291d8864e9ee17c2e5f1.jpg",
+              "Name": "9e2a324800d7291d8864e9ee17c2e5f1.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "21d41af4304d9e07ee92e9b8de40e1cc.jpg",
+              "Name": "21d41af4304d9e07ee92e9b8de40e1cc.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "5e28b1131cf266addd6ca6e4b44ab627.jpg",
+              "Name": "5e28b1131cf266addd6ca6e4b44ab627.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "dcc1797b7b6675be518b16427dbf9232.jpg",
+              "Name": "dcc1797b7b6675be518b16427dbf9232.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "7d25fc1fe1ab65e99e06fab1946327c6.jpg",
+              "Name": "7d25fc1fe1ab65e99e06fab1946327c6.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "4636b5587d0283c2364ab47addd5f09b.jpg",
+              "Name": "4636b5587d0283c2364ab47addd5f09b.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "955fa08d8d6153d7ace4b44587cd5f8e.jpg",
+              "Name": "955fa08d8d6153d7ace4b44587cd5f8e.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "534dc87bd169eeecc3aba1e54fe05ad5.jpg",
+              "Name": "534dc87bd169eeecc3aba1e54fe05ad5.jpg",
+              "IsMain": false
+            },
+            {
+              "Id": "9c2023595ec3e95e935c62060b7443b4.jpg",
+              "Name": "9c2023595ec3e95e935c62060b7443b4.jpg",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "d0e35273-fa3a-4502-9afd-da7c8c0e626e",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "4cd68b30-cc2a-4fa6-b680-5a337daf9a92",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "1a6964b8-6780-42a6-915d-2936bb1af25b",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "8343c027-064b-44cb-a611-6571edd877bf",
+          "Name": "Framework",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "a8ecf8c1-9e3b-46f2-988e-a8617d445511",
+              "Name": "InitAllApplications.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "5910afd6-a7ff-4876-adab-2d6b351bc506",
+              "Name": "CloseAllApplications.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "09997581-6ac6-4e77-b0e5-e20c3794609d",
+              "Name": "KillAllProcesses.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "98a617a2-ec23-4ec5-9ad0-86b09bc1f289",
+              "Name": "RetryCurrentTransaction.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "0ef1ab81-01ba-4cca-a0a8-547d3b687a1d",
+              "Name": "Process.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "c7232ec8-cb34-4436-a5c7-3502479b243e",
+              "Name": "TakeScreenshot.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "ac48c47a-cf1a-4255-9d50-510766064871",
+              "Name": "Folders.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "ac60f055-607f-4c62-9497-50014451fc7d",
+              "Name": "InitAllSettings.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "45cdad62-df8c-4d2e-b201-d656eaf65c47",
+              "Name": "GetTransactionData.xaml",
+              "IsMain": false
+            },
+            {
+              "Id": "a7d8ad8c-c7c4-4130-8655-61f1ecf39f37",
+              "Name": "SetTransactionStatus.xaml",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "754961ae-6750-4716-b886-c3f4a92d9bd1",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "e61477cc-a111-48d2-b1a6-83728869195a",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "95606936-62f8-4d2b-a09b-b1db17d0c79f",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "2fb3d520-bcf4-4097-8707-2a546be012d8",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "4848f7b6-6dca-4018-b3f0-3dfe4eae590f",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "a17e3a52-e8a1-45c1-a4e1-b5b4184add5d",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "d58672b5-0cd3-403f-970a-c9e6fec9c615",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "f7603ca3-7b25-4800-a278-a3e330a78842",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "8fccb8ed-776d-4b66-9a86-3e5a9f85d83b",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "f2810c74-8ebc-438e-afc0-7375f9353473",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "c6777fb4-e826-4b83-8eaf-280c294580a2",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "64567e97-30b4-4311-a8d0-b157a8e2870d",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "55137727-dfda-487f-9970-e00179282441",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "c2c48317-de89-4592-b388-c92bdd091faf",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "6069515a-34da-45b3-9c2a-fd35d05e6a06",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "173beca8-5615-425f-b219-97fcfde6f70b",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "6f3ccc2d-1da0-4aec-9af3-ccac8ff131ca",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "f5eae5d9-0ffd-40d1-a241-ff66d8ea1043",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "bcb3a87b-83ad-4c0c-ae26-d101cec0a0ef",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "888d14de-43d0-464e-a9e3-a2c16a5dd6c5",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "92a0e689-ece5-4ce7-b269-4ea66304ae35",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "7c2f33a6-4c3a-4fb1-b3e9-c128d97b50b9",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "21f7b193-0f0b-4b7a-ae2d-9d27dc640420",
+          "Name": "Exceptions_Screenshots",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "2ee7f561-2a1a-466c-9760-41f3e6247044",
+              "Name": "placeholder.txt",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "e486b12f-d78f-4eba-92b7-eaf3a0115ccb",
+          "Name": ".storage",
+          "Folders": [
+            {
+              "Id": "977003de-f7e5-4cae-9f5c-91dc0c900d4f",
+              "Name": ".runtime",
+              "Folders": [
+                {
+                  "Id": "f440aab1-c0e5-4d10-b28e-73a9177d46cf",
+                  "Name": "AncestryPersistenceService",
+                  "Folders": [],
+                  "Files": [
+                    {
+                      "Id": "9b24de5c-2d5f-4812-be5b-652862ad84eb",
+                      "Name": "01efc4ad-d7d8-4bc4-85f4-040b70462786",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "f5c11416-c9d9-498c-a99b-669b0732b03f",
+                      "Name": "bdbe0424-000e-44f2-af65-2ea5861c1673",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "d450d634-23dd-417b-a3ce-4bcb331f62c9",
+                      "Name": "14986f86-ced5-4d4d-89b1-91cf9f82e534",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "1eaa1448-9f4a-4839-9696-cd524fb6b6d6",
+                      "Name": "4395a577-0560-479f-bb8a-883679802f70",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "d3b0310f-236f-4f09-8e26-4020d4c0e091",
+                      "Name": "a1380a56-6130-4318-8585-3dc501aee4ea",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "c0a3ff27-4a6a-44a4-af43-7c473109cc45",
+                      "Name": "5edbf160-36b1-42a5-9050-f4e5848d8e39",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "47b4791a-0857-4776-87ac-17cc7e99e356",
+                      "Name": "f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "fcccd4a9-f854-4b64-ad44-530a0e24c105",
+                      "Name": "9c54430d-4919-43d0-bb86-90525509c8fb",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "7bddf00c-0b44-4762-ace6-f76f9772eae6",
+                      "Name": "e5b60b03-3cbf-4f9f-b409-1ecd47e1450d",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "8122116b-a98e-4e86-9e72-2aec31692995",
+                      "Name": "16be3037-95e8-4747-a553-04eca31ffa77",
+                      "IsMain": false
+                    }
+                  ]
+                },
+                {
+                  "Id": "24355623-9574-46e8-892f-ee231cc09cc3",
+                  "Name": "DesignTimeTargetImagePersistenceService",
+                  "Folders": [],
+                  "Files": [
+                    {
+                      "Id": "2f79943c-3488-4738-a6e6-3acded0c33f6",
+                      "Name": "01efc4ad-d7d8-4bc4-85f4-040b70462786.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "6e479222-9e95-4245-9ee6-1c5c1b5ee98f",
+                      "Name": "f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "acce7af7-5294-4287-b87c-f7faa2619593",
+                      "Name": "a1380a56-6130-4318-8585-3dc501aee4ea.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "91260e2d-4335-4062-b741-dddf6ae85310",
+                      "Name": "e5b60b03-3cbf-4f9f-b409-1ecd47e1450d.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "e8f6f853-98eb-42c2-b168-0ced6b5ff5ad",
+                      "Name": "9c54430d-4919-43d0-bb86-90525509c8fb.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "a9874c7f-33ff-41d0-a44b-c45f2beb7ecc",
+                      "Name": "5edbf160-36b1-42a5-9050-f4e5848d8e39.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "5538dc58-7f26-4877-9f0f-7933ddf3360f",
+                      "Name": "16be3037-95e8-4747-a553-04eca31ffa77.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "2ace1f13-cfec-41c6-8a2a-59e6ff0017b3",
+                      "Name": "14986f86-ced5-4d4d-89b1-91cf9f82e534.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "ae32e2de-a383-4cd3-9887-2752d950bc53",
+                      "Name": "bdbe0424-000e-44f2-af65-2ea5861c1673.png",
+                      "IsMain": false
+                    },
+                    {
+                      "Id": "4bfd9cca-4d01-4c1f-9e84-f9a1dac9b9dd",
+                      "Name": "4395a577-0560-479f-bb8a-883679802f70.png",
+                      "IsMain": false
+                    }
+                  ]
+                }
+              ],
+              "Files": []
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "ac4f51f4-905b-41ba-a241-4a54b77b38fd",
+          "Name": "apps",
+          "Folders": [
+            {
+              "Id": "a509f463-4c0f-4f1c-beca-cc6e3dc0f112",
+              "Name": "Chrome",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "0b13e264-0189-467a-a642-8fe985634389",
+                  "Name": "Chrome_DescargarArchivo.xaml",
+                  "IsMain": false
+                },
+                {
+                  "Id": "d8194c5a-9511-4ad0-baa0-296865a6e835",
+                  "Name": "Chrome_AbrirPortal.xaml",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "1ef53d73-8df4-43e4-aa16-e52192b9a67d",
+              "Name": "UiPath",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "f252b9f9-de50-4272-aad8-38bf0dcc515d",
+                  "Name": "UiPath_UploadQueue.xaml",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        }
+      ],
+      "Files": [
+        {
+          "Id": "f64e17d3-cff3-4a11-a05b-3bc5d952db15",
+          "Name": "entry-points.json",
+          "IsMain": false
+        },
+        {
+          "Id": "b2a5c5cf-bd94-4db5-b95b-f8db1f3191a3",
+          "Name": "project.json",
+          "IsMain": false
+        },
+        {
+          "Id": "43da1a19-b90a-42d0-9072-993a28efa952",
+          "Name": "Main.xaml",
+          "IsMain": true
+        },
+        {
+          "Id": "274179b8-a72f-49d0-b44c-e9b498f2b4f8",
+          "Name": "LICENSE",
+          "IsMain": false
+        },
+        {
+          "Id": "5b1b1584-9886-43df-9b3e-f05a72ab848a",
+          "Name": "Main.xaml.json",
+          "IsMain": false
+        },
+        {
+          "Id": "f7e53eab-0902-4ae7-940f-0ebc2a4cf5ad",
+          "Name": "README.md",
+          "IsMain": false
+        },
+        {
+          "Id": "e368753f-bf73-46db-9961-d5ae1db0db8b",
+          "Name": "project.uiproj",
+          "IsMain": false
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "[3.4.0-preview]"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[25.12.2]"
+      },
+      {
+        "Name": "UiPath.Testing.Activities",
+        "Version": "[25.10.0]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities",
+        "Version": "[26.1.0-preview]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    ".screenshots/962480fb03b5d1f55a0d3b98a737951d.jpg": "SmlYQ4aAL54sSryIDI0rkhSbmmV0FgVl691\u002B21kyxaI=",
+    ".objects/QQjp/.type": "DQS/631ktxx0/JJcypPWgxVOjMfm5YOPrO1JjjTJmE0=",
+    ".objects/W6P7/qrYY/.metadata": "nPs7Ty9CmEgr7wnp2YyYCz90PrdQyJiQF7cLPQrXeo4=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/01efc4ad-d7d8-4bc4-85f4-040b70462786.png": "Bar3UGfe5QrzYAPjLDG2RVElCGyJz6oD5W\u002BogJY/2/s=",
+    ".objects/W6P7/qrYY/10W-/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    "Framework/Folders.xaml": "pPPkR6PzN03FXC5Fr4XLMeP\u002B0WtYng0UDmJFGXW5H/s=",
+    ".settings/Release/settings-5190454b.json": "jA/7VXt4W2TPcPim90Bp/8Z0GVYtHyzsob0bx1ao6wU=",
+    "Documentation/REFramework Documentation-EN.pdf": "mk2X8WA9S2gU1hr//yPGKBH5/VE\u002BC\u002Bidt3772z0oge8=",
+    ".objects/4dG8/hhuA/90PU/.data/ObjectRepositoryScreenData/.content": "w2k87MZQrfb0iwNm7IjbRZpfVUP4ezvYE1MZ/RoR6h8=",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.content": "4ojrT5mpQelZH16JNhI/rhqHZSEYiVMH2P6cFr3h7UM=",
+    ".screenshots/60daf3ffb886c037a5d7528dc7e75922.jpg": "5GpcNZzYqxsVf1S2JXAyYnvF/PJ1dPF9Il08ohuyLIo=",
+    ".objects/4dG8/hhuA/90PU/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.content": "Tfjg2D/pNQYnrUb1xiADYTULjiyatkmFCjdXVl781kQ=",
+    ".objects/4dG8/hhuA/.metadata": "5ufn12YyRFrLx\u002Bk/mnS527aDwqd2C2tyyC88tcKpUu8=",
+    ".screenshots/7d25fc1fe1ab65e99e06fab1946327c6.jpg": "kJQlrg4ii10N3VDFq6NJ4dAlIFw7wg8o89Ru0UZ6Dmo=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa.png": "F09nIIS320193s4qRCYyUT1X6pkfQcnZsYPhje21i30=",
+    "Tests/InitAllSettingsTestCase.xaml": "AxcSRRURreV0DjU48VhgRVRBynUsLbQiHxnrfJPU0Cs=",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.metadata": "AZkIx8gikxa5eSeQGaPhSGGmywSut3ZIKwW1lR6F5mw=",
+    ".settings/Design/settings-afad0842.json": "0Ate4Ho3OtfOTaFZbep884JDtIPuwDlsbwEsOYkYJUg=",
+    "entry-points.json": "JTrGg7ELWYEx7Gf5mBo/4VIHp\u002By\u002BmZ\u002Bt4YBoA8NKnkM=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/4395a577-0560-479f-bb8a-883679802f70.png": "19vt/53qkfh/YXEJupEjHx6JjYKT90YoNYFYuGJ22I8=",
+    ".objects/W6P7/qrYY/10W-/.metadata": "xXFm0j0iRWSE00MGVJqWmCypCwValX6rojASIICafsg=",
+    ".objects/QQjp/pkjY/IdJg/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    ".settings/Release/settings-a1b2dac1.json": "z8SI8moRrTfwN7GDmo3Qa1DVLNUaQeJL0HwuamQmv7U=",
+    "README.md": "dP\u002BNHRXpKlxNAEf3zVzs3L6a12fQuoy/N1l32sjiTuU=",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.images/.design/05ZCP3tJSGkitI2gVwbi2wQ": "KI473V5ebk4I0UeK/Qm3XpJ5utnwLiXrAjWN5EQZylU=",
+    ".objects/4dG8/.metadata": "O2RoTeZ2EYXPu5g1Js\u002BppTFo/rGGGONkeoRLnjjt62g=",
+    ".tmh/config.json": "h46eoezYT8wW99FSCp0OgQA/hsoWiFWwsBjpoTDPcZg=",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.content": "4LfRkDUMfFq/jVyOermCLBKLNJG\u002BxrFs3N\u002BayvmVIzA=",
+    "apps/Chrome/Chrome_DescargarArchivo.xaml": "bAm/uEiUpIFIM68BiMxbTfsZ9b9lC9jr4Z0NWP9sp5A=",
+    "Data/Config.xlsx": "tKtM6wZExeZfeaaM8yJEUsb5c0tbd7PXqdpzo/jx95g=",
+    ".objects/.type": "3CCz1dLN34L60zKCHKXppO/c7eSic6oZPStJW9zJKCU=",
+    "Tests/MainTestCase.xaml": "fPyMyNAUwGTnV9QYNgTztO\u002BsYi5N1dqubcnudfB4g3A=",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.content": "qh3kQjxGEc6FeUtoNJQyMkvcfim6Z7MgithIoCiwR8U=",
+    ".settings/Release/settings-9e9290da.json": "l/jRrxQRgieW0nyHmqAsi3ds9G/h5HKreJ/LV5ZDKz4=",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.images/.design/0B7_h49tKbE-tz3PR-B_pDQ": "SmlYQ4aAL54sSryIDI0rkhSbmmV0FgVl691\u002B21kyxaI=",
+    ".settings/Design/settings-590bb27b.json": "Csgo6Wm55kkh0onXUnaAu6SaSTdmNQRD6Mrq920FCoI=",
+    ".storage/.runtime/AncestryPersistenceService/e5b60b03-3cbf-4f9f-b409-1ecd47e1450d": "mge5\u002BZev3nyBhPAiVk9SDHrU2ItoxJTC5WEkccdOYW0=",
+    ".screenshots/1172f7590be93cdf9cc6fde0628e7654.jpg": "3RAsxEPGiksnfkP/OcFy6InraSbPhVq4oSuJlOhXxWk=",
+    ".screenshots/7bf03d4513a5e99364560ba6e211bb0b.jpg": "hkjrs/H8eLdKTVCqEHsEhiHY789FsTEYsAWrHO0Wetc=",
+    ".settings/Debug/settings-1a5b880a.json": "yLotnlENCegGUce\u002BY213SefQbrK9JYfgjIwim4VSLzw=",
+    ".settings/Design/settings-a1b2dac1.json": "Fn4pxJFh9kguLH28SM0H23HJM0CBToz0h8B0OFYHxYk=",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.metadata": "H\u002Bkz22ENSfES3Nl94YSwH7/ayqBXzFbD\u002BdKBPZAEFsM=",
+    ".settings/Debug/settings-9e9290da.json": "l/jRrxQRgieW0nyHmqAsi3ds9G/h5HKreJ/LV5ZDKz4=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/a1380a56-6130-4318-8585-3dc501aee4ea.png": "kJQlrg4ii10N3VDFq6NJ4dAlIFw7wg8o89Ru0UZ6Dmo=",
+    "Framework/GetTransactionData.xaml": "6lBKOHAKyTI0zIAtk8Wem\u002BFWEYgDJE8gxqBva5RLQ/M=",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images/.design/0YVoiunxYt0W21Bb9QDsFRA": "2npdBhC4hzYEoRt9GhqGP1PR\u002BiabJTd3eK4cW/4ERos=",
+    ".objects/QQjp/.metadata": "Yc5tGP000OwZuUyfZzBxSp9KHd2x9u8VkR48QrgtAe4=",
+    ".objects/W6P7/qrYY/.type": "\u002BGggqKGln\u002BEckLy4CkowIpHwBNKm6rrFd/RbiZgQY7c=",
+    ".objects/4dG8/hhuA/.type": "\u002BGggqKGln\u002BEckLy4CkowIpHwBNKm6rrFd/RbiZgQY7c=",
+    "Framework/CloseAllApplications.xaml": "F82XSNpVsftDydyvrR6b8j6xarPAyzm83JiMMLxkxOo=",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.images/.design/0PT9gBhDXOEOx4xIvpKnUqQ": "kJQlrg4ii10N3VDFq6NJ4dAlIFw7wg8o89Ru0UZ6Dmo=",
+    ".screenshots/4636b5587d0283c2364ab47addd5f09b.jpg": "VZsGb0W9fYgmHxl/51VicpoCXa059jX9e7HbS/0RIhA=",
+    ".settings/Release/settings-afad0842.json": "G9QXfUpFG7Ft2Hv2iaAAdX0OHthnWBvWoCiC3J0\u002BIzg=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/5edbf160-36b1-42a5-9050-f4e5848d8e39.png": "KI473V5ebk4I0UeK/Qm3XpJ5utnwLiXrAjWN5EQZylU=",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images/.design/09RtH91J21E6nYE6QeuT7ng": "A4s/mlnHJp47sftX/kbG4nIAs3vYvHn/YsIBrK5Pewc=",
+    "Framework/InitAllSettings.xaml": "ChGrXJkkAW/xju5/0s9xnQT\u002BRHqAQgA\u002BF\u002BVjuLpIZhw=",
+    ".storage/.runtime/AncestryPersistenceService/a1380a56-6130-4318-8585-3dc501aee4ea": "iaIDw6sNnUookiCHM3ow3lPMkJx2XHySwAim9hCEKcM=",
+    ".objects/W6P7/.data/ObjectSelectionName/.content": "6PsJOMs84zB7DMaNgFFpsn9XFC4zxJ\u002BOSuShvRiKf50=",
+    ".storage/.runtime/AncestryPersistenceService/9c54430d-4919-43d0-bb86-90525509c8fb": "b2px9\u002B0FDFYeDSQt0TjSolGBZTN7T0jN1/omWOg1epc=",
+    ".project/PackageBindingsMetadata.json": "hNSgWjdwQfSz7sg03AktzmfR/CoWQo44tiGCMnizCOQ=",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images/.design/0n9cZqmB7Qki-xFGwoAPjdQ": "A4s/mlnHJp47sftX/kbG4nIAs3vYvHn/YsIBrK5Pewc=",
+    ".storage/.runtime/AncestryPersistenceService/14986f86-ced5-4d4d-89b1-91cf9f82e534": "BK26F/yY9g4IAKRRNBrPUlUlGcLGCNltLQwR2xFh3cU=",
+    ".objects/4dG8/hhuA/90PU/FDxu/.metadata": "dkPHvjqcQTlwif1kgHUWumRbRjODxLNhYVA0XtYH5hU=",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.images/.design/0bUSMYhz_XUyguyUrHyCCDg": "uRGos6FiC6dH2Zovrpbhz0J7ft0PApCHl/57M2zs4k0=",
+    ".settings/Debug/settings-a1b2dac1.json": "z8SI8moRrTfwN7GDmo3Qa1DVLNUaQeJL0HwuamQmv7U=",
+    ".storage/.runtime/AncestryPersistenceService/01efc4ad-d7d8-4bc4-85f4-040b70462786": "CNDLE\u002BgxdoC\u002B1F/qg\u002BFch17Ui3Cgg8jkb9zDh2VrA0k=",
+    ".screenshots/21d41af4304d9e07ee92e9b8de40e1cc.jpg": "GBnhVmigl8GnxgRbY\u002Blw8SKnDK19DEjvLHJ3BzMkTvE=",
+    "Data/Input/placeholder.txt": "SfeBYn1se31zYA5YTb68cTh\u002B786v8YZ0yazrPICej2Y=",
+    "Main.xaml": "xFwzP54b8/uGBFZ95746Sa1og5B2PSI//JpMGXtZPXw=",
+    "LICENSE": "QF5q7iYJhbMhpOgkg1Q0de32G3VHynkj9aatrMtUz58=",
+    "Main.xaml.json": "ddSH5d8H43S3BpoD50FmOFHBuQkj1WOk7CLi49HUaic=",
+    ".objects/4dG8/.data/ObjectSelectionName/.content": "6PsJOMs84zB7DMaNgFFpsn9XFC4zxJ\u002BOSuShvRiKf50=",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images/.design/0RUUKrlrFxUCRX6tn9maCDw": "hkjrs/H8eLdKTVCqEHsEhiHY789FsTEYsAWrHO0Wetc=",
+    ".objects/4dG8/hhuA/90PU/YllJ/.metadata": "7ZpZNvl9rgYgbcCy0Tpkb4dkvTTPNhEmTlHEn0TSZo0=",
+    "Framework/KillAllProcesses.xaml": "J/Aj8b0xB6gPxBG0Tc5WovgbayB/n7PTviB7BIR0VGY=",
+    ".settings/Release/settings-590bb27b.json": "ohy2LEZ0wBLLAHCxB/0jU541YjbZSpm4L9AoRAo9pBY=",
+    "Tests/WorkflowTestCaseTemplate.xaml": "UXvaL1g6g2RUoSEYuWbZLQZRFlmJQ9ML7jdIkSHVonM=",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images/.design/046QLa3v9rU6EG2Kf09H7Sg": "hkjrs/H8eLdKTVCqEHsEhiHY789FsTEYsAWrHO0Wetc=",
+    ".objects/QQjp/.data/ObjectSelectionName/.content": "6PsJOMs84zB7DMaNgFFpsn9XFC4zxJ\u002BOSuShvRiKf50=",
+    ".settings/Design/settings-5190454b.json": "\u002B3KxfzbGTCWfRz/9TU36fkWid7rD77ZaV6yLkcAlxwY=",
+    ".settings/Debug/settings-5190454b.json": "jA/7VXt4W2TPcPim90Bp/8Z0GVYtHyzsob0bx1ao6wU=",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/9c54430d-4919-43d0-bb86-90525509c8fb.png": "19vt/53qkfh/YXEJupEjHx6JjYKT90YoNYFYuGJ22I8=",
+    ".objects/W6P7/.metadata": "I0Cpk4U16LUkN9ZNhfQ0WpUn2SDYTORCMReY03QbG0o=",
+    "project.uiproj": "Bu7VaFnn6kc5F85Fx/c/DD9WcE68BRlLjsXcmYNr58I=",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.images/.design/0AnRJXSDx5UGfuKsIu7X96A": "hkjrs/H8eLdKTVCqEHsEhiHY789FsTEYsAWrHO0Wetc=",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.content": "YuCaxM3JYuFqfKANyp7mDc8L59Y7NLSb0ITulwS88qQ=",
+    ".screenshots/9e2a324800d7291d8864e9ee17c2e5f1.jpg": "KI473V5ebk4I0UeK/Qm3XpJ5utnwLiXrAjWN5EQZylU=",
+    ".objects/W6P7/.type": "DQS/631ktxx0/JJcypPWgxVOjMfm5YOPrO1JjjTJmE0=",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.content": "9FLQUgrXe3IVagl\u002BnZmVMf5uFiFcO1mGgmz3ejtGufM=",
+    ".objects/QQjp/pkjY/.metadata": "hiulEQmmCMBXrtTuiOiMLcgD0vGidXrMfe\u002B6T4AK0SA=",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images/.design/0uNj61YTJmUO6gvLTWPCpEA": "2npdBhC4hzYEoRt9GhqGP1PR\u002BiabJTd3eK4cW/4ERos=",
+    "Tests/ProcessTestCase.xaml": "NZuDyae9tFi7\u002B1GdSjvv5mcJ/i6LNLCUq5OPDD9TUFY=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/e5b60b03-3cbf-4f9f-b409-1ecd47e1450d.png": "njZTKTt9lwbHBPpKpjEPtPrSAYCzJj1HHUQyLjcFzVE=",
+    ".screenshots/9c2023595ec3e95e935c62060b7443b4.jpg": "A4s/mlnHJp47sftX/kbG4nIAs3vYvHn/YsIBrK5Pewc=",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.images/.design/0G7Kx8aOWh0mfSaLTmB2nyQ": "Bar3UGfe5QrzYAPjLDG2RVElCGyJz6oD5W\u002BogJY/2/s=",
+    "Data/Temp/placeholder.txt": "YUnkvgLiY9FhtiBxP4jyxS0Qu1qyOtbR\u002BbK0w2m\u002B\u002BBA=",
+    "Framework/Process.xaml": "0Bjdok5Br2v2rhDdCh7kG/WjAvhaE3bekLVqN1FL\u002BPM=",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.content": "RjVUUtaceOdgyWEbgpo0CyICGslbg8DLrTet0SusHls=",
+    ".storage/.runtime/AncestryPersistenceService/16be3037-95e8-4747-a553-04eca31ffa77": "1bc\u002BNgFT7nIEIH5W509FiPIoZjuX/VVLcgsWmt6tAdY=",
+    ".storage/.runtime/AncestryPersistenceService/bdbe0424-000e-44f2-af65-2ea5861c1673": "I4aWAvt\u002B4fMI\u002BPUTmigrJ3x88T\u002BFF2sJylJIImvWE7w=",
+    ".objects/QQjp/pkjY/GbKN/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    ".objects/QQjp/pkjY/GbKN/.metadata": "aWBAcEfdrWBG8vI5DB/v6ueVW7t9vyDOrijRmkC8UvA=",
+    ".screenshots/534dc87bd169eeecc3aba1e54fe05ad5.jpg": "uRGos6FiC6dH2Zovrpbhz0J7ft0PApCHl/57M2zs4k0=",
+    "Tests/InitAllApplicationsTestCase.xaml": "Bpsoam4oeHl3i3UbIXoVKg6Ybgl8ok5qrgpaZ\u002BP0zZ4=",
+    ".project/design.json": "D1f9H44ht\u002Bs2pCbXw5MEuq5cz60YKu8d7bi05HsrbK0=",
+    "Framework/InitAllApplications.xaml": "U8iA1hwiFZq6OU4/u0W\u002BgQvUXdhR6U1KNXXfDWu8lFs=",
+    "Framework/TakeScreenshot.xaml": "hJfg9ZRdR9dPU5eoqHrVJyzPWN\u002BsZq7pg\u002BFsqxOrqcQ=",
+    ".objects/QQjp/pkjY/IdJg/.metadata": "tKWH8ASL0m1/BEKowIGM2gy/vM7MAYiK1I98XKYEtmQ=",
+    "Tests/Tests.xlsx": "Wclzneud8w6GnSCHT0E1Yq15lVcOJxknZgPYnGRByIU=",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.content": "dtfXpZ158nmYvSN9AnGC4b3d\u002B4srJaUxg723ftHw7n4=",
+    ".storage/.runtime/AncestryPersistenceService/f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa": "my/gg67TPXF8L8KT/hWHccinMKwEJfeTL6hBoXowBfE=",
+    "Framework/SetTransactionStatus.xaml": "C\u002BOLvzxP2n6tBBbY9a5Szhy/vZh8wT9e/3QG6sNzuqY=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/bdbe0424-000e-44f2-af65-2ea5861c1673.png": "uRGos6FiC6dH2Zovrpbhz0J7ft0PApCHl/57M2zs4k0=",
+    ".objects/4dG8/hhuA/90PU/YllJ/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/16be3037-95e8-4747-a553-04eca31ffa77.png": "3RAsxEPGiksnfkP/OcFy6InraSbPhVq4oSuJlOhXxWk=",
+    ".objects/4dG8/hhuA/Qtgj/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    "project.json": "2eDm373N5aQ/E2XeFtoVhNN7qLKd1OmblD0MIDtg\u002B94=",
+    "apps/UiPath/UiPath_UploadQueue.xaml": "pow26k5LGSMplCGyBWyJXGWY\u002BkT0GdAYOKH3bjWQHs0=",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.content": "GgIamnOx4UEu2VrW05bGgmitrCBOjfiE2Wy\u002B\u002BRfKfkQ=",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
+    ".storage/.runtime/AncestryPersistenceService/5edbf160-36b1-42a5-9050-f4e5848d8e39": "hq8If/mKubMoeuiEZuM0xYIQAvn7tVB/Df8oQlFQimw=",
+    ".storage/.runtime/AncestryPersistenceService/4395a577-0560-479f-bb8a-883679802f70": "pFRHLzrJJlVpfyuriqsX27kPLpfSkzyFfEibcjCFyzw=",
+    ".screenshots/dcc1797b7b6675be518b16427dbf9232.jpg": "19vt/53qkfh/YXEJupEjHx6JjYKT90YoNYFYuGJ22I8=",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/14986f86-ced5-4d4d-89b1-91cf9f82e534.png": "SmlYQ4aAL54sSryIDI0rkhSbmmV0FgVl691\u002B21kyxaI=",
+    ".objects/4dG8/hhuA/90PU/.metadata": "uNqh/p63kjKQ/PzLmK59cSY3x5BssZXPWzRtipxpoFU=",
+    ".objects/.metadata": "AoSpv1f1iWHSfMtEfZC5wy60QRrjMmbQUdEo1iVp9MU=",
+    ".objects/4dG8/hhuA/Qtgj/.metadata": "FmEnZtUuRdfVlOsJtLygA0iwWLaDQuN58td1VMExJU8=",
+    ".screenshots/f0700c5b048be15529e2d462d9a9f75e.jpg": "Bar3UGfe5QrzYAPjLDG2RVElCGyJz6oD5W\u002BogJY/2/s=",
+    ".screenshots/695a3f602056e283b266397ba015308b.jpg": "QRtc4CFyC3Z0RNNHwHbvfhHls9JycfeEq2o\u002BB6BQOFw=",
+    ".settings/Release/settings-82ca306a.json": "emYcBcvkaLsFz8\u002Bm15ds8bYGKlfo/rMpIXMZpgU/1zo=",
+    "Exceptions_Screenshots/placeholder.txt": "0wwmw\u002BvSZWGyJp0M9VeFV4E1IrZ6UEsG/PIzypPpdoE=",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.content": "IrNU31Qc0l9jfjtbT7//Twt\u002Bo9jduO611JEpOe32W5A=",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.metadata": "5dr6swtrBg/wmnNU0li3cJtnkKbi5fA6WRwNd3w/u9g=",
+    ".settings/Release/settings-1a5b880a.json": "yLotnlENCegGUce\u002BY213SefQbrK9JYfgjIwim4VSLzw=",
+    ".screenshots/418cba0653d8fed2a7dee4c9f574851c.jpg": "F09nIIS320193s4qRCYyUT1X6pkfQcnZsYPhje21i30=",
+    "Data/Output/placeholder.txt": "Foh\u002B9jIl/sQ0cV5rGO8lcr0ataP8VFOOQxuiymPZmgI=",
+    "Framework/RetryCurrentTransaction.xaml": "gp7wj0DW28Oj5rpx8ignEi3qsCaFTWtOZNvSMjY7eTA=",
+    ".objects/QQjp/pkjY/sS2_/.metadata": "S\u002BKMN2JpEqYEc713hYYa4NBCAnLhvK9IbW4g74h5xSA=",
+    "apps/Chrome/Chrome_AbrirPortal.xaml": "I1dFvXGixHOpML/fqYhFYFanlFpaYPj9J3IXUgAYqeI=",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.images/.design/0qSjfRWVO8UG445vtUIZRXA": "QRtc4CFyC3Z0RNNHwHbvfhHls9JycfeEq2o\u002BB6BQOFw=",
+    ".settings/Debug/settings-afad0842.json": "G9QXfUpFG7Ft2Hv2iaAAdX0OHthnWBvWoCiC3J0\u002BIzg=",
+    "Tests/GetTransactionDataTestCase.xaml": "dojaeCFuxiPLpabHm/pOSohSVdyzHHvRJYcTixtODQE=",
+    ".objects/QQjp/pkjY/.type": "\u002BGggqKGln\u002BEckLy4CkowIpHwBNKm6rrFd/RbiZgQY7c=",
+    ".settings/Debug/settings-590bb27b.json": "ohy2LEZ0wBLLAHCxB/0jU541YjbZSpm4L9AoRAo9pBY=",
+    ".screenshots/955fa08d8d6153d7ace4b44587cd5f8e.jpg": "njZTKTt9lwbHBPpKpjEPtPrSAYCzJj1HHUQyLjcFzVE=",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
+    ".settings/Debug/settings-82ca306a.json": "emYcBcvkaLsFz8\u002Bm15ds8bYGKlfo/rMpIXMZpgU/1zo=",
+    ".screenshots/5e28b1131cf266addd6ca6e4b44ab627.jpg": "2npdBhC4hzYEoRt9GhqGP1PR\u002BiabJTd3eK4cW/4ERos=",
+    ".objects/QQjp/pkjY/sS2_/.type": "blYTfiHTIiouMTX8NFgob8P7ay4sZ56a4o2yaP6YKvc=",
+    ".objects/4dG8/hhuA/90PU/FDxu/.type": "TltUjW1h8ABoQKyhBvdGSktZ5ahUMX1bV4YbhCOQG/Y=",
+    ".objects/4dG8/.type": "DQS/631ktxx0/JJcypPWgxVOjMfm5YOPrO1JjjTJmE0="
+  },
+  "OriginalFolders": [
+    ".objects/QQjp/pkjY/IdJg",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.images",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData",
+    ".objects/QQjp/pkjY/GbKN",
+    ".objects/4dG8/hhuA/90PU/ZpPV",
+    ".objects/4dG8/.data",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.images",
+    ".objects/QQjp/pkjY/GbKN/q8LZ",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.attributes",
+    ".objects/W6P7/qrYY",
+    "Exceptions_Screenshots",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.attributes",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.attributes",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.attributes",
+    "apps/UiPath",
+    ".objects/4dG8/hhuA/Qtgj",
+    ".entities",
+    ".objects/4dG8",
+    ".settings/Debug",
+    ".tmh",
+    "apps",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData",
+    "Data/Input",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data",
+    ".objects/4dG8/hhuA/90PU/YllJ",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images/.design",
+    ".objects/4dG8/hhuA/90PU/.data/ObjectRepositoryScreenData/.attributes",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.images/.design",
+    ".objects/4dG8/.data/ObjectSelectionName",
+    ".objects/4dG8/hhuA",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data",
+    ".templates",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images/.design",
+    ".storage/.runtime/AncestryPersistenceService",
+    ".objects/QQjp/pkjY/sS2_/.data",
+    ".objects/QQjp/pkjY/sS2_",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.attributes",
+    "Framework",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.images/.design",
+    ".screenshots",
+    ".settings/Design",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.images/.design",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.images/.design",
+    ".storage",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.attributes",
+    ".objects/4dG8/hhuA/Qtgj/.data",
+    ".objects/W6P7",
+    ".objects/QQjp/pkjY",
+    ".objects/W6P7/qrYY/10W-",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.images",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images",
+    "Documentation",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.attributes",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data",
+    ".objects/QQjp/.data/ObjectSelectionName",
+    "Data/Temp",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.images",
+    "Tests",
+    ".objects/QQjp/.data",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images/.design",
+    ".objects/4dG8/hhuA/90PU",
+    ".objects/4dG8/hhuA/90PU/FDxu",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.attributes",
+    ".objects/4dG8/hhuA/90PU/.data/ObjectRepositoryScreenData",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.images",
+    ".objects/4dG8/hhuA/90PU/.data",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService",
+    ".storage/.runtime",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.images/.design",
+    ".objects/W6P7/.data",
+    "Data",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.images",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData",
+    ".objects",
+    ".project",
+    ".objects/QQjp/pkjY/IdJg/.data",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData",
+    "apps/Chrome",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.attributes",
+    "Data/Output",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.images/.design",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.images/.design",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.images",
+    ".objects/W6P7/.data/ObjectSelectionName",
+    ".objects/QQjp/pkjY/GbKN/.data",
+    ".settings/Release",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData",
+    ".objects/QQjp",
+    ".objects/W6P7/qrYY/10W-/.data",
+    ".objects/QQjp/pkjY/GbKN/BvrS",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.attributes",
+    ".settings",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData"
+  ],
+  "StudioWebFiles": [
+    ".screenshots/962480fb03b5d1f55a0d3b98a737951d.jpg",
+    ".objects/QQjp/.type",
+    ".objects/W6P7/qrYY/.metadata",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/01efc4ad-d7d8-4bc4-85f4-040b70462786.png",
+    ".objects/W6P7/qrYY/10W-/.type",
+    "Framework/Folders.xaml",
+    ".settings/Release/settings-5190454b.json",
+    "Documentation/REFramework Documentation-EN.pdf",
+    ".objects/4dG8/hhuA/90PU/.data/ObjectRepositoryScreenData/.content",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.content",
+    ".screenshots/60daf3ffb886c037a5d7528dc7e75922.jpg",
+    ".objects/4dG8/hhuA/90PU/.type",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.content",
+    ".objects/4dG8/hhuA/.metadata",
+    ".screenshots/7d25fc1fe1ab65e99e06fab1946327c6.jpg",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa.png",
+    "Tests/InitAllSettingsTestCase.xaml",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.metadata",
+    ".settings/Design/settings-afad0842.json",
+    "entry-points.json",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/4395a577-0560-479f-bb8a-883679802f70.png",
+    ".objects/W6P7/qrYY/10W-/.metadata",
+    ".objects/QQjp/pkjY/IdJg/.type",
+    ".settings/Release/settings-a1b2dac1.json",
+    "README.md",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.images/.design/05ZCP3tJSGkitI2gVwbi2wQ",
+    ".objects/4dG8/.metadata",
+    ".tmh/config.json",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.content",
+    "apps/Chrome/Chrome_DescargarArchivo.xaml",
+    "Data/Config.xlsx",
+    ".objects/.type",
+    "Tests/MainTestCase.xaml",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.content",
+    ".settings/Release/settings-9e9290da.json",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.images/.design/0B7_h49tKbE-tz3PR-B_pDQ",
+    ".settings/Design/settings-590bb27b.json",
+    ".storage/.runtime/AncestryPersistenceService/e5b60b03-3cbf-4f9f-b409-1ecd47e1450d",
+    ".screenshots/1172f7590be93cdf9cc6fde0628e7654.jpg",
+    ".screenshots/7bf03d4513a5e99364560ba6e211bb0b.jpg",
+    ".settings/Debug/settings-1a5b880a.json",
+    ".settings/Design/settings-a1b2dac1.json",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.metadata",
+    ".settings/Debug/settings-9e9290da.json",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/a1380a56-6130-4318-8585-3dc501aee4ea.png",
+    "Framework/GetTransactionData.xaml",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images/.design/0YVoiunxYt0W21Bb9QDsFRA",
+    ".objects/QQjp/.metadata",
+    ".objects/W6P7/qrYY/.type",
+    ".objects/4dG8/hhuA/.type",
+    "Framework/CloseAllApplications.xaml",
+    ".objects/4dG8/hhuA/90PU/YllJ/.data/ObjectRepositoryTargetData/.images/.design/0PT9gBhDXOEOx4xIvpKnUqQ",
+    ".screenshots/4636b5587d0283c2364ab47addd5f09b.jpg",
+    ".settings/Release/settings-afad0842.json",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/5edbf160-36b1-42a5-9050-f4e5848d8e39.png",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images/.design/09RtH91J21E6nYE6QeuT7ng",
+    "Framework/InitAllSettings.xaml",
+    ".storage/.runtime/AncestryPersistenceService/a1380a56-6130-4318-8585-3dc501aee4ea",
+    ".objects/W6P7/.data/ObjectSelectionName/.content",
+    ".storage/.runtime/AncestryPersistenceService/9c54430d-4919-43d0-bb86-90525509c8fb",
+    ".project/PackageBindingsMetadata.json",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.images/.design/0n9cZqmB7Qki-xFGwoAPjdQ",
+    ".storage/.runtime/AncestryPersistenceService/14986f86-ced5-4d4d-89b1-91cf9f82e534",
+    ".objects/4dG8/hhuA/90PU/FDxu/.metadata",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.images/.design/0bUSMYhz_XUyguyUrHyCCDg",
+    ".settings/Debug/settings-a1b2dac1.json",
+    ".storage/.runtime/AncestryPersistenceService/01efc4ad-d7d8-4bc4-85f4-040b70462786",
+    ".screenshots/21d41af4304d9e07ee92e9b8de40e1cc.jpg",
+    "Data/Input/placeholder.txt",
+    "Main.xaml",
+    "LICENSE",
+    "Main.xaml.json",
+    ".objects/4dG8/.data/ObjectSelectionName/.content",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images/.design/0RUUKrlrFxUCRX6tn9maCDw",
+    ".objects/4dG8/hhuA/90PU/YllJ/.metadata",
+    "Framework/KillAllProcesses.xaml",
+    ".settings/Release/settings-590bb27b.json",
+    "Tests/WorkflowTestCaseTemplate.xaml",
+    ".objects/QQjp/pkjY/GbKN/.data/ObjectRepositoryScreenData/.images/.design/046QLa3v9rU6EG2Kf09H7Sg",
+    ".objects/QQjp/.data/ObjectSelectionName/.content",
+    ".settings/Design/settings-5190454b.json",
+    ".settings/Debug/settings-5190454b.json",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.type",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/9c54430d-4919-43d0-bb86-90525509c8fb.png",
+    ".objects/W6P7/.metadata",
+    "project.uiproj",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.images/.design/0AnRJXSDx5UGfuKsIu7X96A",
+    ".objects/4dG8/hhuA/90PU/ZpPV/.data/ObjectRepositoryTargetData/.content",
+    ".screenshots/9e2a324800d7291d8864e9ee17c2e5f1.jpg",
+    ".objects/W6P7/.type",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.content",
+    ".objects/QQjp/pkjY/.metadata",
+    ".objects/W6P7/qrYY/10W-/.data/ObjectRepositoryScreenData/.images/.design/0uNj61YTJmUO6gvLTWPCpEA",
+    "Tests/ProcessTestCase.xaml",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/e5b60b03-3cbf-4f9f-b409-1ecd47e1450d.png",
+    ".screenshots/9c2023595ec3e95e935c62060b7443b4.jpg",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.data/ObjectRepositoryTargetData/.images/.design/0G7Kx8aOWh0mfSaLTmB2nyQ",
+    "Data/Temp/placeholder.txt",
+    "Framework/Process.xaml",
+    ".objects/4dG8/hhuA/90PU/FDxu/.data/ObjectRepositoryTargetData/.content",
+    ".storage/.runtime/AncestryPersistenceService/16be3037-95e8-4747-a553-04eca31ffa77",
+    ".storage/.runtime/AncestryPersistenceService/bdbe0424-000e-44f2-af65-2ea5861c1673",
+    ".objects/QQjp/pkjY/GbKN/.type",
+    ".objects/QQjp/pkjY/GbKN/.metadata",
+    ".screenshots/534dc87bd169eeecc3aba1e54fe05ad5.jpg",
+    "Tests/InitAllApplicationsTestCase.xaml",
+    ".project/design.json",
+    "Framework/InitAllApplications.xaml",
+    "Framework/TakeScreenshot.xaml",
+    ".objects/QQjp/pkjY/IdJg/.metadata",
+    "Tests/Tests.xlsx",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.data/ObjectRepositoryTargetData/.content",
+    ".storage/.runtime/AncestryPersistenceService/f7fb96f2-72df-44b3-a5fb-daa9b1ac21aa",
+    "Framework/SetTransactionStatus.xaml",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/bdbe0424-000e-44f2-af65-2ea5861c1673.png",
+    ".objects/4dG8/hhuA/90PU/YllJ/.type",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/16be3037-95e8-4747-a553-04eca31ffa77.png",
+    ".objects/4dG8/hhuA/Qtgj/.type",
+    "project.json",
+    "apps/UiPath/UiPath_UploadQueue.xaml",
+    ".objects/QQjp/pkjY/IdJg/.data/ObjectRepositoryScreenData/.content",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.type",
+    ".storage/.runtime/AncestryPersistenceService/5edbf160-36b1-42a5-9050-f4e5848d8e39",
+    ".storage/.runtime/AncestryPersistenceService/4395a577-0560-479f-bb8a-883679802f70",
+    ".screenshots/dcc1797b7b6675be518b16427dbf9232.jpg",
+    ".storage/.runtime/DesignTimeTargetImagePersistenceService/14986f86-ced5-4d4d-89b1-91cf9f82e534.png",
+    ".objects/4dG8/hhuA/90PU/.metadata",
+    ".objects/.metadata",
+    ".objects/4dG8/hhuA/Qtgj/.metadata",
+    ".screenshots/f0700c5b048be15529e2d462d9a9f75e.jpg",
+    ".screenshots/695a3f602056e283b266397ba015308b.jpg",
+    ".settings/Release/settings-82ca306a.json",
+    "Exceptions_Screenshots/placeholder.txt",
+    ".objects/4dG8/hhuA/Qtgj/.data/ObjectRepositoryScreenData/.content",
+    ".objects/QQjp/pkjY/GbKN/q8LZ/.metadata",
+    ".settings/Release/settings-1a5b880a.json",
+    ".screenshots/418cba0653d8fed2a7dee4c9f574851c.jpg",
+    "Data/Output/placeholder.txt",
+    "Framework/RetryCurrentTransaction.xaml",
+    ".objects/QQjp/pkjY/sS2_/.metadata",
+    "apps/Chrome/Chrome_AbrirPortal.xaml",
+    ".objects/QQjp/pkjY/sS2_/.data/ObjectRepositoryScreenData/.images/.design/0qSjfRWVO8UG445vtUIZRXA",
+    ".settings/Debug/settings-afad0842.json",
+    "Tests/GetTransactionDataTestCase.xaml",
+    ".objects/QQjp/pkjY/.type",
+    ".settings/Debug/settings-590bb27b.json",
+    ".screenshots/955fa08d8d6153d7ace4b44587cd5f8e.jpg",
+    ".objects/QQjp/pkjY/GbKN/BvrS/.type",
+    ".settings/Debug/settings-82ca306a.json",
+    ".screenshots/5e28b1131cf266addd6ca6e4b44ab627.jpg",
+    ".objects/QQjp/pkjY/sS2_/.type",
+    ".objects/4dG8/hhuA/90PU/FDxu/.type",
+    ".objects/4dG8/.type"
+  ]
+}

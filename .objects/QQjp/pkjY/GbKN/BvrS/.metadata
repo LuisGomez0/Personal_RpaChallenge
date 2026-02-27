@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Desafío RPA",
+  "Type": "Element",
+  "Id": "BvrSinXgHUOEkOzCpC1P2w",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/BvrSinXgHUOEkOzCpC1P2w",
+  "ParentRef": "xmtWzaeBKk-NUXHoYsxhgg/GbKN2QFyjUylEsqdBRemgg",
+  "Created": "2026-02-26T23:43:43.6024947Z",
+  "Updated": "2026-02-26T23:43:43.6024947Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

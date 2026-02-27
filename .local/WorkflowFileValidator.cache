@@ -1,0 +1,14 @@
+Framework/KillAllProcesses.xaml|638996668260000000
+Framework/CloseAllApplications.xaml|638996668260000000
+Framework/RetryCurrentTransaction.xaml|638996668260000000
+apps/UiPath/UiPath_UploadQueue.xaml|639077570632842115
+Framework/InitAllApplications.xaml|639077676800998925
+Framework/Folders.xaml|639077447989690820
+Framework/Process.xaml|638996668260000000
+Framework/InitAllSettings.xaml|638996668260000000
+Framework/GetTransactionData.xaml|638996668260000000
+Framework/SetTransactionStatus.xaml|638996668260000000
+apps/Chrome/Chrome_AbrirPortal.xaml|639077640763574953
+apps/Chrome/Chrome_DescargarArchivo.xaml|639077676687437946
+Framework/TakeScreenshot.xaml|638996668260000000
+Main.xaml|639077454519169605

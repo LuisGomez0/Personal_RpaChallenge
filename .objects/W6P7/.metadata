@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Desafío Rpa(1)",
+  "Type": "App",
+  "Id": "W6P7kgTaDUaBR4tdGuAyJw",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/W6P7kgTaDUaBR4tdGuAyJw",
+  "Created": "2026-02-27T04:11:26.022739Z",
+  "Updated": "2026-02-27T04:11:26.022739Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

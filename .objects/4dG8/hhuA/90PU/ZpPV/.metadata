@@ -1,0 +1,14 @@
+﻿{
+  "Name": "challenge",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZpPVlPTUkUeGZoIjcY-yzQ",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/ZpPVlPTUkUeGZoIjcY-yzQ",
+  "ParentRef": "xmtWzaeBKk-NUXHoYsxhgg/90PURLeyj0qJuHn1TRVVtA",
+  "Created": "2026-02-27T00:15:29.1543807Z",
+  "Updated": "2026-02-27T00:15:29.1543807Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
