@@ -1,0 +1,42 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "activityDisplayName": "Get Asset",
+      "activityId": "GetRobotAsset_1",
+      "resource": "asset",
+      "id": "assetRPA ChallengeFalse",
+      "value": {
+        "folderPath": {
+          "defaultValue": "RPA Challenge",
+          "isExpression": false
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2"
+      }
+    },
+    {
+      "activityDisplayName": "Añadir elemento de la cola",
+      "activityId": "AddQueueItem_1",
+      "resource": "queue",
+      "key": "RPA Challenge.RPAChallenge_UploadPerson",
+      "id": "queueRPA Challenge.RPAChallenge_UploadPersonRPA ChallengeFalseRPAChallenge_UploadPersonFalse",
+      "value": {
+        "folderPath": {
+          "defaultValue": "RPA Challenge",
+          "isExpression": false,
+          "displayName": "Folder Path"
+        },
+        "name": {
+          "defaultValue": "RPAChallenge_UploadPerson",
+          "isExpression": false,
+          "displayName": "Queue name"
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2"
+      }
+    }
+  ]
+}
