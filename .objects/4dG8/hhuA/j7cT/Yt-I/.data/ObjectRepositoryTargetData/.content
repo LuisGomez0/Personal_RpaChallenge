@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C__XGCjPVE2OgHcfBe7qZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="af46b798-ec85-430f-b2df-fad824fb2884" CvElementArea="591, 361, 266, 39" CvType="InputBox" DesignTimeRectangle="596, 353, 257, 46" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="25a46403-6470-494d-8159-72e90336cd6f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="af46b798-ec85-430f-b2df-fad824fb2884" CvTextArea="594, 337, 101, 14" CvTextArgument="Company Name" CvType="Text" DesignTimeRectangle="596, 334, 99, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Company Name' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' tag='LABEL' innertext='Company Name' visibleinnertext='Company Name' check:innerText='Company Name' /&gt;" Guid="6d233751-1fd6-42f6-9009-92f941405f1c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1cb8640dca470fb2a3d91ceffe8eaa4c.jpg" xmlns="">0EeM79ADrpUO4_Jb_ViYbfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Confirmar Guardar como",
+  "Type": "Element",
+  "Id": "WGEDKgo11Um-k_72ehW64Q",
+  "Reference": "xmtWzaeBKk-NUXHoYsxhgg/WGEDKgo11Um-k_72ehW64Q",
+  "ParentRef": "xmtWzaeBKk-NUXHoYsxhgg/10W-9IeYA0iohHnck95pIg",
+  "Created": "2026-03-05T01:18:08.0513652Z",
+  "Updated": "2026-03-05T01:18:08.0513652Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.1.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
